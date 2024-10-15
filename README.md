@@ -1,3 +1,4 @@
+# this is group 11 and below are our names and scripts we used in our project
 The people who participated include:
 Grevy Karuretwa
 Joshua Mugisha
